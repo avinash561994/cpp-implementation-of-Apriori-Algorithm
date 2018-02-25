@@ -1,0 +1,10 @@
+other vegetables,(1903) ,,------->,,whole milk,(2513) ,,confidence,0.386758
+whole milk,(2513) ,,------->,,other vegetables,(1903) ,,confidence,0.292877
+rolls/buns,(1809) ,,------->,,whole milk,(2513) ,,confidence,0.307905
+whole milk,(2513) ,,------->,,rolls/buns,(1809) ,,confidence,0.221647
+whole milk,(2513) ,,------->,,yogurt,(1372) ,,confidence,0.21926
+yogurt,(1372) ,,------->,,whole milk,(2513) ,,confidence,0.401603
+,,,,,,,,,
+,,,,,,,,,
+minimum support=500,,,,,,,,,
+Confidence=0.2,,,,,,,,,

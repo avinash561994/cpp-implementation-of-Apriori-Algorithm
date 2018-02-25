@@ -1,0 +1,11 @@
+other vegetables,(1903) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000153903
+whole milk,(2513) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000153903
+rolls/buns,(1809) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000122525
+whole milk,(2513) ,,------->,,rolls/buns,(1809) ,,items are negatively correlated,0.000122525
+whole milk,(2513) ,,------->,,yogurt,(1372) ,,items are negatively correlated,0.00015981
+yogurt,(1372) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.00015981
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+minimum support=500,,,,,,,,,

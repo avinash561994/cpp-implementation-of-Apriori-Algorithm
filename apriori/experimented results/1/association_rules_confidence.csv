@@ -1,0 +1,33 @@
+citrus fruit,other vegetables,root vegetables,(102) ,,------->,,whole milk,(2513) ,,confidence,0.558824
+citrus fruit,other vegetables,whole milk,(128) ,,------->,,root vegetables,(1072) ,,confidence,0.445312
+citrus fruit,root vegetables,whole milk,(90) ,,------->,,other vegetables,(1903) ,,confidence,0.633333
+fruit/vegetable juice,other vegetables,whole milk,(103) ,,------->,,yogurt,(1372) ,,confidence,0.485437
+fruit/vegetable juice,other vegetables,yogurt,(81) ,,------->,,whole milk,(2513) ,,confidence,0.617284
+fruit/vegetable juice,whole milk,yogurt,(93) ,,------->,,other vegetables,(1903) ,,confidence,0.537634
+other vegetables,pip fruit,root vegetables,(80) ,,------->,,whole milk,(2513) ,,confidence,0.675
+other vegetables,pip fruit,whole milk,(133) ,,------->,,root vegetables,(1072) ,,confidence,0.406015
+pip fruit,root vegetables,whole milk,(88) ,,------->,,other vegetables,(1903) ,,confidence,0.613636
+other vegetables,pip fruit,yogurt,(80) ,,------->,,whole milk,(2513) ,,confidence,0.625
+pip fruit,whole milk,yogurt,(94) ,,------->,,other vegetables,(1903) ,,confidence,0.531915
+other vegetables,rolls/buns,root vegetables,(120) ,,------->,,whole milk,(2513) ,,confidence,0.508333
+rolls/buns,root vegetables,whole milk,(125) ,,------->,,other vegetables,(1903) ,,confidence,0.488
+other vegetables,rolls/buns,yogurt,(113) ,,------->,,whole milk,(2513) ,,confidence,0.522124
+other vegetables,root vegetables,tropical fruit,(121) ,,------->,,whole milk,(2513) ,,confidence,0.570248
+other vegetables,tropical fruit,whole milk,(168) ,,------->,,root vegetables,(1072) ,,confidence,0.410714
+root vegetables,tropical fruit,whole milk,(118) ,,------->,,other vegetables,(1903) ,,confidence,0.584746
+other vegetables,root vegetables,whipped/sour cream,(84) ,,------->,,whole milk,(2513) ,,confidence,0.607143
+root vegetables,whipped/sour cream,whole milk,(93) ,,------->,,other vegetables,(1903) ,,confidence,0.548387
+other vegetables,root vegetables,yogurt,(127) ,,------->,,whole milk,(2513) ,,confidence,0.606299
+root vegetables,whole milk,yogurt,(143) ,,------->,,other vegetables,(1903) ,,confidence,0.538462
+other vegetables,tropical fruit,whole milk,(168) ,,------->,,yogurt,(1372) ,,confidence,0.446429
+other vegetables,tropical fruit,yogurt,(121) ,,------->,,whole milk,(2513) ,,confidence,0.619835
+tropical fruit,whole milk,yogurt,(149) ,,------->,,other vegetables,(1903) ,,confidence,0.503356
+other vegetables,whipped/sour cream,yogurt,(100) ,,------->,,whole milk,(2513) ,,confidence,0.55
+whipped/sour cream,whole milk,yogurt,(107) ,,------->,,other vegetables,(1903) ,,confidence,0.514019
+root vegetables,tropical fruit,whole milk,(118) ,,------->,,yogurt,(1372) ,,confidence,0.474576
+root vegetables,tropical fruit,yogurt,(80) ,,------->,,whole milk,(2513) ,,confidence,0.7
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+minimum support=50,,,,,,,,,,,
+Confidence=0.4,,,,,,,,,,,

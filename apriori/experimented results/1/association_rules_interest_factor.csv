@@ -1,0 +1,171 @@
+citrus fruit,(814) ,,------->,,other vegetables,root vegetables,whole milk,(228) ,,items are negatively correlated,0.000307125
+other vegetables,(1903) ,,------->,,citrus fruit,root vegetables,whole milk,(90) ,,items are negatively correlated,0.000332808
+citrus fruit,other vegetables,(284) ,,------->,,root vegetables,whole milk,(481) ,,items are negatively correlated,0.000417264
+root vegetables,(1072) ,,------->,,citrus fruit,other vegetables,whole milk,(128) ,,items are negatively correlated,0.000415403
+citrus fruit,root vegetables,(174) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.00044509
+other vegetables,root vegetables,(466) ,,------->,,citrus fruit,whole milk,(300) ,,items are negatively correlated,0.000407725
+citrus fruit,other vegetables,root vegetables,(102) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000222373
+whole milk,(2513) ,,------->,,citrus fruit,other vegetables,root vegetables,(102) ,,items are negatively correlated,0.000222373
+citrus fruit,whole milk,(300) ,,------->,,other vegetables,root vegetables,(466) ,,items are negatively correlated,0.000407725
+other vegetables,whole milk,(736) ,,------->,,citrus fruit,root vegetables,(174) ,,items are negatively correlated,0.00044509
+citrus fruit,other vegetables,whole milk,(128) ,,------->,,root vegetables,(1072) ,,items are negatively correlated,0.000415403
+root vegetables,whole milk,(481) ,,------->,,citrus fruit,other vegetables,(284) ,,items are negatively correlated,0.000417264
+citrus fruit,root vegetables,whole milk,(90) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000332808
+other vegetables,root vegetables,whole milk,(228) ,,------->,,citrus fruit,(814) ,,items are negatively correlated,0.000307125
+fruit/vegetable juice,(711) ,,------->,,other vegetables,whole milk,yogurt,(219) ,,items are negatively correlated,0.000321112
+other vegetables,(1903) ,,------->,,fruit/vegetable juice,whole milk,yogurt,(93) ,,items are negatively correlated,0.000282519
+fruit/vegetable juice,other vegetables,(207) ,,------->,,whole milk,yogurt,(551) ,,items are negatively correlated,0.000438377
+whole milk,(2513) ,,------->,,fruit/vegetable juice,other vegetables,yogurt,(81) ,,items are negatively correlated,0.000245636
+fruit/vegetable juice,whole milk,(262) ,,------->,,other vegetables,yogurt,(427) ,,items are negatively correlated,0.000446931
+other vegetables,whole milk,(736) ,,------->,,fruit/vegetable juice,yogurt,(184) ,,items are negatively correlated,0.000369211
+fruit/vegetable juice,other vegetables,whole milk,(103) ,,------->,,yogurt,(1372) ,,items are negatively correlated,0.000353817
+yogurt,(1372) ,,------->,,fruit/vegetable juice,other vegetables,whole milk,(103) ,,items are negatively correlated,0.000353817
+fruit/vegetable juice,yogurt,(184) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.000369211
+other vegetables,yogurt,(427) ,,------->,,fruit/vegetable juice,whole milk,(262) ,,items are negatively correlated,0.000446931
+fruit/vegetable juice,other vegetables,yogurt,(81) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000245636
+whole milk,yogurt,(551) ,,------->,,fruit/vegetable juice,other vegetables,(207) ,,items are negatively correlated,0.000438377
+fruit/vegetable juice,whole milk,yogurt,(93) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000282519
+other vegetables,whole milk,yogurt,(219) ,,------->,,fruit/vegetable juice,(711) ,,items are negatively correlated,0.000321112
+other vegetables,(1903) ,,------->,,pip fruit,root vegetables,whole milk,(88) ,,items are negatively correlated,0.000322457
+pip fruit,(744) ,,------->,,other vegetables,root vegetables,whole milk,(228) ,,items are negatively correlated,0.000318336
+other vegetables,pip fruit,(257) ,,------->,,root vegetables,whole milk,(481) ,,items are negatively correlated,0.000436833
+root vegetables,(1072) ,,------->,,other vegetables,pip fruit,whole milk,(133) ,,items are negatively correlated,0.000378745
+other vegetables,root vegetables,(466) ,,------->,,pip fruit,whole milk,(296) ,,items are negatively correlated,0.000391486
+pip fruit,root vegetables,(153) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.00047954
+other vegetables,pip fruit,root vegetables,(80) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000268603
+whole milk,(2513) ,,------->,,other vegetables,pip fruit,root vegetables,(80) ,,items are negatively correlated,0.000268603
+other vegetables,whole milk,(736) ,,------->,,pip fruit,root vegetables,(153) ,,items are negatively correlated,0.00047954
+pip fruit,whole milk,(296) ,,------->,,other vegetables,root vegetables,(466) ,,items are negatively correlated,0.000391486
+other vegetables,pip fruit,whole milk,(133) ,,------->,,root vegetables,(1072) ,,items are negatively correlated,0.000378745
+root vegetables,whole milk,(481) ,,------->,,other vegetables,pip fruit,(257) ,,items are negatively correlated,0.000436833
+other vegetables,root vegetables,whole milk,(228) ,,------->,,pip fruit,(744) ,,items are negatively correlated,0.000318336
+pip fruit,root vegetables,whole milk,(88) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000322457
+other vegetables,(1903) ,,------->,,pip fruit,whole milk,yogurt,(94) ,,items are negatively correlated,0.000279514
+pip fruit,(744) ,,------->,,other vegetables,whole milk,yogurt,(219) ,,items are negatively correlated,0.000306869
+other vegetables,pip fruit,(257) ,,------->,,whole milk,yogurt,(551) ,,items are negatively correlated,0.00035309
+whole milk,(2513) ,,------->,,other vegetables,pip fruit,yogurt,(80) ,,items are negatively correlated,0.000248707
+other vegetables,whole milk,(736) ,,------->,,pip fruit,yogurt,(177) ,,items are negatively correlated,0.000383812
+pip fruit,whole milk,(296) ,,------->,,other vegetables,yogurt,(427) ,,items are negatively correlated,0.000395595
+other vegetables,pip fruit,whole milk,(133) ,,------->,,yogurt,(1372) ,,items are negatively correlated,0.000274009
+yogurt,(1372) ,,------->,,other vegetables,pip fruit,whole milk,(133) ,,items are negatively correlated,0.000274009
+other vegetables,yogurt,(427) ,,------->,,pip fruit,whole milk,(296) ,,items are negatively correlated,0.000395595
+pip fruit,yogurt,(177) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.000383812
+other vegetables,pip fruit,yogurt,(80) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000248707
+whole milk,yogurt,(551) ,,------->,,other vegetables,pip fruit,(257) ,,items are negatively correlated,0.00035309
+other vegetables,whole milk,yogurt,(219) ,,------->,,pip fruit,(744) ,,items are negatively correlated,0.000306869
+pip fruit,whole milk,yogurt,(94) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000279514
+other vegetables,(1903) ,,------->,,rolls/buns,root vegetables,whole milk,(125) ,,items are negatively correlated,0.000256437
+rolls/buns,(1809) ,,------->,,other vegetables,root vegetables,whole milk,(228) ,,items are negatively correlated,0.000147896
+other vegetables,rolls/buns,(419) ,,------->,,root vegetables,whole milk,(481) ,,items are negatively correlated,0.000302671
+root vegetables,(1072) ,,------->,,other vegetables,rolls/buns,whole milk,(176) ,,items are negatively correlated,0.000323312
+other vegetables,root vegetables,(466) ,,------->,,rolls/buns,whole milk,(557) ,,items are negatively correlated,0.000235011
+rolls/buns,root vegetables,(239) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.00034678
+other vegetables,rolls/buns,root vegetables,(120) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000202281
+whole milk,(2513) ,,------->,,other vegetables,rolls/buns,root vegetables,(120) ,,items are negatively correlated,0.000202281
+other vegetables,whole milk,(736) ,,------->,,rolls/buns,root vegetables,(239) ,,items are negatively correlated,0.00034678
+rolls/buns,whole milk,(557) ,,------->,,other vegetables,root vegetables,(466) ,,items are negatively correlated,0.000235011
+other vegetables,rolls/buns,whole milk,(176) ,,------->,,root vegetables,(1072) ,,items are negatively correlated,0.000323312
+root vegetables,whole milk,(481) ,,------->,,other vegetables,rolls/buns,(419) ,,items are negatively correlated,0.000302671
+other vegetables,root vegetables,whole milk,(228) ,,------->,,rolls/buns,(1809) ,,items are negatively correlated,0.000147896
+rolls/buns,root vegetables,whole milk,(125) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000256437
+other vegetables,(1903) ,,------->,,rolls/buns,whole milk,yogurt,(153) ,,items are negatively correlated,0.000202638
+rolls/buns,(1809) ,,------->,,other vegetables,whole milk,yogurt,(219) ,,items are negatively correlated,0.000148926
+other vegetables,rolls/buns,(419) ,,------->,,whole milk,yogurt,(551) ,,items are negatively correlated,0.000255556
+whole milk,(2513) ,,------->,,other vegetables,rolls/buns,yogurt,(113) ,,items are negatively correlated,0.000207769
+other vegetables,whole milk,(736) ,,------->,,rolls/buns,yogurt,(338) ,,items are negatively correlated,0.000237169
+rolls/buns,whole milk,(557) ,,------->,,other vegetables,yogurt,(427) ,,items are negatively correlated,0.000248067
+other vegetables,rolls/buns,whole milk,(176) ,,------->,,yogurt,(1372) ,,items are negatively correlated,0.000244335
+yogurt,(1372) ,,------->,,other vegetables,rolls/buns,whole milk,(176) ,,items are negatively correlated,0.000244335
+other vegetables,yogurt,(427) ,,------->,,rolls/buns,whole milk,(557) ,,items are negatively correlated,0.000248067
+rolls/buns,yogurt,(338) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.000237169
+other vegetables,rolls/buns,yogurt,(113) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000207769
+whole milk,yogurt,(551) ,,------->,,other vegetables,rolls/buns,(419) ,,items are negatively correlated,0.000255556
+other vegetables,whole milk,yogurt,(219) ,,------->,,rolls/buns,(1809) ,,items are negatively correlated,0.000148926
+rolls/buns,whole milk,yogurt,(153) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000202638
+other vegetables,(1903) ,,------->,,root vegetables,tropical fruit,whole milk,(118) ,,items are negatively correlated,0.000307276
+root vegetables,(1072) ,,------->,,other vegetables,tropical fruit,whole milk,(168) ,,items are negatively correlated,0.000383129
+other vegetables,root vegetables,(466) ,,------->,,tropical fruit,whole milk,(416) ,,items are negatively correlated,0.000355934
+tropical fruit,(1032) ,,------->,,other vegetables,root vegetables,whole milk,(228) ,,items are negatively correlated,0.000293248
+other vegetables,tropical fruit,(353) ,,------->,,root vegetables,whole milk,(481) ,,items are negatively correlated,0.000406377
+root vegetables,tropical fruit,(207) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.000452899
+other vegetables,root vegetables,tropical fruit,(121) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000226919
+whole milk,(2513) ,,------->,,other vegetables,root vegetables,tropical fruit,(121) ,,items are negatively correlated,0.000226919
+other vegetables,whole milk,(736) ,,------->,,root vegetables,tropical fruit,(207) ,,items are negatively correlated,0.000452899
+root vegetables,whole milk,(481) ,,------->,,other vegetables,tropical fruit,(353) ,,items are negatively correlated,0.000406377
+other vegetables,root vegetables,whole milk,(228) ,,------->,,tropical fruit,(1032) ,,items are negatively correlated,0.000293248
+tropical fruit,whole milk,(416) ,,------->,,other vegetables,root vegetables,(466) ,,items are negatively correlated,0.000355934
+other vegetables,tropical fruit,whole milk,(168) ,,------->,,root vegetables,(1072) ,,items are negatively correlated,0.000383129
+root vegetables,tropical fruit,whole milk,(118) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000307276
+other vegetables,(1903) ,,------->,,root vegetables,whipped/sour cream,whole milk,(93) ,,items are negatively correlated,0.00028817
+root vegetables,(1072) ,,------->,,other vegetables,whipped/sour cream,whole milk,(144) ,,items are negatively correlated,0.000330379
+other vegetables,root vegetables,(466) ,,------->,,whipped/sour cream,whole milk,(317) ,,items are negatively correlated,0.000345243
+whipped/sour cream,(705) ,,------->,,other vegetables,root vegetables,whole milk,(228) ,,items are negatively correlated,0.000317283
+other vegetables,whipped/sour cream,(284) ,,------->,,root vegetables,whole milk,(481) ,,items are negatively correlated,0.000373342
+root vegetables,whipped/sour cream,(168) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.000412461
+other vegetables,root vegetables,whipped/sour cream,(84) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000241601
+whole milk,(2513) ,,------->,,other vegetables,root vegetables,whipped/sour cream,(84) ,,items are negatively correlated,0.000241601
+other vegetables,whole milk,(736) ,,------->,,root vegetables,whipped/sour cream,(168) ,,items are negatively correlated,0.000412461
+root vegetables,whole milk,(481) ,,------->,,other vegetables,whipped/sour cream,(284) ,,items are negatively correlated,0.000373342
+other vegetables,root vegetables,whole milk,(228) ,,------->,,whipped/sour cream,(705) ,,items are negatively correlated,0.000317283
+whipped/sour cream,whole milk,(317) ,,------->,,other vegetables,root vegetables,(466) ,,items are negatively correlated,0.000345243
+other vegetables,whipped/sour cream,whole milk,(144) ,,------->,,root vegetables,(1072) ,,items are negatively correlated,0.000330379
+root vegetables,whipped/sour cream,whole milk,(93) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.00028817
+other vegetables,(1903) ,,------->,,root vegetables,whole milk,yogurt,(143) ,,items are negatively correlated,0.000282954
+root vegetables,(1072) ,,------->,,other vegetables,whole milk,yogurt,(219) ,,items are negatively correlated,0.000327983
+other vegetables,root vegetables,(466) ,,------->,,whole milk,yogurt,(551) ,,items are negatively correlated,0.000299884
+whole milk,(2513) ,,------->,,other vegetables,root vegetables,yogurt,(127) ,,items are negatively correlated,0.000241265
+other vegetables,whole milk,(736) ,,------->,,root vegetables,yogurt,(254) ,,items are negatively correlated,0.000411888
+root vegetables,whole milk,(481) ,,------->,,other vegetables,yogurt,(427) ,,items are negatively correlated,0.000374902
+other vegetables,root vegetables,whole milk,(228) ,,------->,,yogurt,(1372) ,,items are negatively correlated,0.000246151
+yogurt,(1372) ,,------->,,other vegetables,root vegetables,whole milk,(228) ,,items are negatively correlated,0.000246151
+other vegetables,yogurt,(427) ,,------->,,root vegetables,whole milk,(481) ,,items are negatively correlated,0.000374902
+root vegetables,yogurt,(254) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.000411888
+other vegetables,root vegetables,yogurt,(127) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000241265
+whole milk,yogurt,(551) ,,------->,,other vegetables,root vegetables,(466) ,,items are negatively correlated,0.000299884
+other vegetables,whole milk,yogurt,(219) ,,------->,,root vegetables,(1072) ,,items are negatively correlated,0.000327983
+root vegetables,whole milk,yogurt,(143) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000282954
+other vegetables,(1903) ,,------->,,tropical fruit,whole milk,yogurt,(149) ,,items are negatively correlated,0.000264506
+tropical fruit,(1032) ,,------->,,other vegetables,whole milk,yogurt,(219) ,,items are negatively correlated,0.000331847
+other vegetables,tropical fruit,(353) ,,------->,,whole milk,yogurt,(551) ,,items are negatively correlated,0.000385598
+whole milk,(2513) ,,------->,,other vegetables,tropical fruit,yogurt,(121) ,,items are negatively correlated,0.000246651
+other vegetables,whole milk,(736) ,,------->,,tropical fruit,yogurt,(288) ,,items are negatively correlated,0.000353827
+tropical fruit,whole milk,(416) ,,------->,,other vegetables,yogurt,(427) ,,items are negatively correlated,0.000422221
+other vegetables,tropical fruit,whole milk,(168) ,,------->,,yogurt,(1372) ,,items are negatively correlated,0.000325385
+yogurt,(1372) ,,------->,,other vegetables,tropical fruit,whole milk,(168) ,,items are negatively correlated,0.000325385
+other vegetables,yogurt,(427) ,,------->,,tropical fruit,whole milk,(416) ,,items are negatively correlated,0.000422221
+tropical fruit,yogurt,(288) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.000353827
+other vegetables,tropical fruit,yogurt,(121) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000246651
+whole milk,yogurt,(551) ,,------->,,other vegetables,tropical fruit,(353) ,,items are negatively correlated,0.000385598
+other vegetables,whole milk,yogurt,(219) ,,------->,,tropical fruit,(1032) ,,items are negatively correlated,0.000331847
+tropical fruit,whole milk,yogurt,(149) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.000264506
+other vegetables,(1903) ,,------->,,whipped/sour cream,whole milk,yogurt,(107) ,,items are negatively correlated,0.00027011
+whipped/sour cream,(705) ,,------->,,other vegetables,whole milk,yogurt,(219) ,,items are negatively correlated,0.000356229
+other vegetables,whipped/sour cream,(284) ,,------->,,whole milk,yogurt,(551) ,,items are negatively correlated,0.000351474
+whole milk,(2513) ,,------->,,other vegetables,whipped/sour cream,yogurt,(100) ,,items are negatively correlated,0.000218862
+other vegetables,whole milk,(736) ,,------->,,whipped/sour cream,yogurt,(204) ,,items are negatively correlated,0.000366315
+whipped/sour cream,whole milk,(317) ,,------->,,other vegetables,yogurt,(427) ,,items are negatively correlated,0.000406327
+other vegetables,whipped/sour cream,whole milk,(144) ,,------->,,yogurt,(1372) ,,items are negatively correlated,0.000278385
+yogurt,(1372) ,,------->,,other vegetables,whipped/sour cream,whole milk,(144) ,,items are negatively correlated,0.000278385
+other vegetables,yogurt,(427) ,,------->,,whipped/sour cream,whole milk,(317) ,,items are negatively correlated,0.000406327
+whipped/sour cream,yogurt,(204) ,,------->,,other vegetables,whole milk,(736) ,,items are negatively correlated,0.000366315
+other vegetables,whipped/sour cream,yogurt,(100) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000218862
+whole milk,yogurt,(551) ,,------->,,other vegetables,whipped/sour cream,(284) ,,items are negatively correlated,0.000351474
+other vegetables,whole milk,yogurt,(219) ,,------->,,whipped/sour cream,(705) ,,items are negatively correlated,0.000356229
+whipped/sour cream,whole milk,yogurt,(107) ,,------->,,other vegetables,(1903) ,,items are negatively correlated,0.00027011
+root vegetables,(1072) ,,------->,,tropical fruit,whole milk,yogurt,(149) ,,items are negatively correlated,0.000350596
+tropical fruit,(1032) ,,------->,,root vegetables,whole milk,yogurt,(143) ,,items are negatively correlated,0.000379465
+root vegetables,tropical fruit,(207) ,,------->,,whole milk,yogurt,(551) ,,items are negatively correlated,0.000490983
+whole milk,(2513) ,,------->,,root vegetables,tropical fruit,yogurt,(80) ,,items are negatively correlated,0.000278552
+root vegetables,whole milk,(481) ,,------->,,tropical fruit,yogurt,(288) ,,items are negatively correlated,0.00040425
+tropical fruit,whole milk,(416) ,,------->,,root vegetables,yogurt,(254) ,,items are negatively correlated,0.000529982
+root vegetables,tropical fruit,whole milk,(118) ,,------->,,yogurt,(1372) ,,items are negatively correlated,0.000345901
+yogurt,(1372) ,,------->,,root vegetables,tropical fruit,whole milk,(118) ,,items are negatively correlated,0.000345901
+root vegetables,yogurt,(254) ,,------->,,tropical fruit,whole milk,(416) ,,items are negatively correlated,0.000529982
+tropical fruit,yogurt,(288) ,,------->,,root vegetables,whole milk,(481) ,,items are negatively correlated,0.00040425
+root vegetables,tropical fruit,yogurt,(80) ,,------->,,whole milk,(2513) ,,items are negatively correlated,0.000278552
+whole milk,yogurt,(551) ,,------->,,root vegetables,tropical fruit,(207) ,,items are negatively correlated,0.000490983
+root vegetables,whole milk,yogurt,(143) ,,------->,,tropical fruit,(1032) ,,items are negatively correlated,0.000379465
+tropical fruit,whole milk,yogurt,(149) ,,------->,,root vegetables,(1072) ,,items are negatively correlated,0.000350596
+,,,,,,,,,,,
+,,,,,,,,,,,
+minimum support=50,,,,,,,,,,,

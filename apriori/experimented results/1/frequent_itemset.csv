@@ -1,0 +1,16 @@
+citrus fruit,other vegetables,root vegetables,whole milk,,,support,57
+fruit/vegetable juice,other vegetables,whole milk,yogurt,,,support,50
+other vegetables,pip fruit,root vegetables,whole milk,,,support,54
+other vegetables,pip fruit,whole milk,yogurt,,,support,50
+other vegetables,rolls/buns,root vegetables,whole milk,,,support,61
+other vegetables,rolls/buns,whole milk,yogurt,,,support,59
+other vegetables,root vegetables,tropical fruit,whole milk,,,support,69
+other vegetables,root vegetables,whipped/sour cream,whole milk,,,support,51
+other vegetables,root vegetables,whole milk,yogurt,,,support,77
+other vegetables,tropical fruit,whole milk,yogurt,,,support,75
+other vegetables,whipped/sour cream,whole milk,yogurt,,,support,55
+root vegetables,tropical fruit,whole milk,yogurt,,,support,56
+,,,,,,,
+,,,,,,,
+,,,,,,,
+minimum support=50,,,,,,,

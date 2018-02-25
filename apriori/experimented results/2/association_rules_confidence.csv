@@ -1,0 +1,16 @@
+citrus fruit,other vegetables,root vegetables,(102) ,,------->,,whole milk,(2513) ,,confidence,0.558824
+citrus fruit,root vegetables,whole milk,(90) ,,------->,,other vegetables,(1903) ,,confidence,0.633333
+other vegetables,rolls/buns,root vegetables,(120) ,,------->,,whole milk,(2513) ,,confidence,0.508333
+other vegetables,rolls/buns,yogurt,(113) ,,------->,,whole milk,(2513) ,,confidence,0.522124
+other vegetables,root vegetables,tropical fruit,(121) ,,------->,,whole milk,(2513) ,,confidence,0.570248
+root vegetables,tropical fruit,whole milk,(118) ,,------->,,other vegetables,(1903) ,,confidence,0.584746
+other vegetables,root vegetables,yogurt,(127) ,,------->,,whole milk,(2513) ,,confidence,0.606299
+root vegetables,whole milk,yogurt,(143) ,,------->,,other vegetables,(1903) ,,confidence,0.538462
+other vegetables,tropical fruit,yogurt,(121) ,,------->,,whole milk,(2513) ,,confidence,0.619835
+tropical fruit,whole milk,yogurt,(149) ,,------->,,other vegetables,(1903) ,,confidence,0.503356
+other vegetables,whipped/sour cream,yogurt,(100) ,,------->,,whole milk,(2513) ,,confidence,0.55
+whipped/sour cream,whole milk,yogurt,(107) ,,------->,,other vegetables,(1903) ,,confidence,0.514019
+root vegetables,tropical fruit,yogurt,(80) ,,------->,,whole milk,(2513) ,,confidence,0.7
+,,,,,,,,,,,
+minimu support =55,,,,,,,,,,,
+Confidence=0.5,,,,,,,,,,,
